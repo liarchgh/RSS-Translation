@@ -11,4 +11,4 @@
 
 ## 已转换翻译源
 
- - source001 [https://hnrss.org/frontpage](https://hnrss.org/frontpage) -> [hacker news frontpage(translated)](rss/hacker news frontpage(translated))
+ - source001 [https://hnrss.org/frontpage](https://hnrss.org/frontpage) -> [hacker_news_frontpage_translated.xml](rss/hacker_news_frontpage_translated.xml)
